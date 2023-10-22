@@ -64,6 +64,6 @@ Incredibly basic.
 * **Stronger Potion:** Recovers 30 HP.
 * **Stronger Elixir:** Recovers 30 MP.
 * **Stronger Sword:** Damages the enemy by 5x damage.
-* **Death Sword:** Instantly kills the enemy, regardless of the remaining HP. Kass however, is immune to this.
+* **Death Sword:** Instantly kills the enemy, regardless of the remaining HP. Kass, however, is immune to this.
 
 You can receive more item variety depending on how far you progress throughout the dungeon floors.
