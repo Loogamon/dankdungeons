@@ -162,7 +162,7 @@ while playme!='': #Loop for replaying the game as many times you'd like.
         loc_names[abc]="{a1} {a2}".format(a1=path_name1[random.randint(0,len(path_name1)-1)],a2=path_name2[random.randint(0,len(path_name2)-1)])
     num_paths=random.randint(1,6) #How many paths will be generated?
     #Title Screen
-    print("----------\nDank Dungeons\nGame by Cenrji -- 4/30/17 - 5/2/17\n----------") #Print Text
+    print("----------\nDank Dungeons\nGame by Loogamon -- 4/30/17 - 5/2/17\n----------") #Print Text
     #Exception Handling for reading files and displays the high score, if there is any.
     try:
         if os.path.isfile("dd_gamesave.sav"):

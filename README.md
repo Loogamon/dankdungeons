@@ -57,4 +57,13 @@ Incredibly basic.
 
 ### Items
 
-The list.
+* **Potion:** Recovers 10 HP.
+* **Elixir:** Recovers 10 MP.
+* **Sword:** Damages the enemy by 3x damage.
+* **Smoke Ball:** Guaranteed escape from battle.
+* **Stronger Potion:** Recovers 30 HP.
+* **Stronger Elixir:** Recovers 30 MP.
+* **Stronger Sword:** Damages the enemy by 5x damage.
+* **Death Sword:** Instantly kills the enemy, regardless of the remaining HP. Kass however, is immune to this.
+
+You can receive more item variety depending on how far you progress throughout the dungeon floors.
